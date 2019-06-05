@@ -1,4 +1,4 @@
-# HelloWord-Angular8.0.1-SpringBoot2.1
+# HelloWorld-Angular8.0.1-SpringBoot2.1
 
 Wtih Angular 8.0.1, this is a simple hello world maven project to test how Spring Boot works with Angular. 
 
